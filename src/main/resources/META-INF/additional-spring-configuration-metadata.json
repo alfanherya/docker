@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.kafka.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.topic'"
+  },
+  {
+    "name": "spring.kafka.topic-json.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.topic-json.name'"
+  },
+  {
+    "name": "spring.kafka.consumer.key-deserialize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.consumer.key-deserialize'"
+  },
+  {
+    "name": "services.kafka-ui.container_name",
+    "type": "java.lang.String",
+    "description": "A description for 'services.kafka-ui.container_name'"
+  },
+  {
+    "name": "services.kafka-ui.image",
+    "type": "java.lang.String",
+    "description": "A description for 'services.kafka-ui.image'"
+  },
+  {
+    "name": "services.kafka-ui.ports",
+    "type": "java.lang.String",
+    "description": "A description for 'services.kafka-ui.ports'"
+  },
+  {
+    "name": "services.kafka-ui.environment.DYNAMIC_-cONFIG_-eNABLED",
+    "type": "java.lang.String",
+    "description": "A description for 'services.kafka-ui.environment.DYNAMIC_-cONFIG_-eNABLED'"
+  },
+  {
+    "name": "services.kafka-ui.volumes",
+    "type": "java.lang.String",
+    "description": "A description for 'services.kafka-ui.volumes'"
+  }
+]}
